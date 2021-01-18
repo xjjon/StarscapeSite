@@ -1,0 +1,12 @@
+- links:
+  - name: iOS
+    link: /
+    new_window: true
+  - name: Android
+    link: /
+    new_window: true
+- links:
+  - name: Facebook
+    link: https://facebook.com/starscapeapp/
+    new_window: true
+    social_icon: Facebook
