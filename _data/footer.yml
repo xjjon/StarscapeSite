@@ -1,9 +1,9 @@
 - links:
   - name: iOS
-    link: /
+    link: https://apps.apple.com/us/app/starscape-galaxy-heroes/id1522183080
     new_window: true
   - name: Android
-    link: /
+    link: https://play.google.com/store/apps/details?id=com.LumisEntertainment.Starscape
     new_window: true
 - links:
   - name: Facebook
