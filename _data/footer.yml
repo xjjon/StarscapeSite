@@ -10,3 +10,13 @@
     link: https://facebook.com/starscapeapp/
     new_window: true
     social_icon: Facebook
+- links:
+  - name: Instagram
+    link: https://instagram.com/starscapeapp/
+    new_window: true
+    social_icon: Instagram
+- links:
+  - name: YouTube
+    link: https://www.youtube.com/channel/UCjkhu5kwjt8RH5Sp8noPXYA
+    new_window: true
+    social_icon: YouTube
